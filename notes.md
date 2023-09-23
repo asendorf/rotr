@@ -5,16 +5,20 @@ Tail from Lucretia
 scorpion tail from skull ripper
 dust from pit fiend
 
-JAQUES TO EVALUATE TAKING +2 STUDDED LEATHER
-CHECK NECROMANCY SPELLS FOR JAQEUS
+CHECK NECROMANCY SPELLS FOR JAQEUS 
+ - Catatonia (2) 
+ - Deathwine (2) 
+ - Earsend (4) 
+ - False Life (2)
+ - False Life, Greater (4) 
+ - Languid Venom (2) 
+ - Marionette Possession (3)
+ - Phantom Blood (1)
+ - Skinsend (2) 
+ - Umbral Infusion (4)
 
 Bearach saw giants
-Jacque to take hour long buffs immediately. Then minues when closer
-
-TO ADD TO INVENTORY
-- 12 +1 Giant Bane Arrows
-- 22 +1 Arrows
-- +2 light fortification studded leather armor
+Jacques to take hour long buffs immediately. Then minues when closer
 
 ### Session 60
  - Brodert Quink about the Balck Tower

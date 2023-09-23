@@ -1,17 +1,96 @@
 Jacques chops off finger of the single-finger ogre kin
 Spells to scribe: fly (one week from teleport to Fort Ranick)
 Tail from snake lady
+Tail from Lucretia
 scorpion tail from skull ripper
 dust from pit fiend
 
-### Adventure Weekend
- - Madison kens for dimension door to skip likely trapped statues
- - Dr. Boner can Kool aid man
- - Madison has greater invisibility 
- - I've already popped bull strength - and have thorn body and displacement as well
- - or we could fly bearach in and teleport Marek, Garek, and Dr. Boner
- - I"m currently invisible
- - 
+JAQUES TO EVALUATE TAKING +2 STUDDED LEATHER
+CHECK NECROMANCY SPELLS FOR JAQEUS
+
+Bearach saw giants
+Jacque to take hour long buffs immediately. Then minues when closer
+
+TO ADD TO INVENTORY
+- 12 +1 Giant Bane Arrows
+- 22 +1 Arrows
+- +2 light fortification studded leather armor
+
+### Session 60
+ - Brodert Quink about the Balck Tower
+   - he has no idea
+   - but he has been studying the runewell
+   - old light - tower of reigns of fire
+
+- Dragon lore
+ - likely chromatic if rolling w/ giants
+- Library
+ - Valley of Black Tower -> rumored to exist in Iron Peaks region
+ - In runelord Karzoug's domain (Greed)
+- Gather Info
+  - Jorgenfist is mythological name gaurding afterlife
+
+Divination
+- Dawn 2 days time attack
+
+
+
+### Session 59
+Round 1: Greater Invis (end Round 11)
+Round 2: haste (end 12), Thorn Body (end Round 11) 
+Round 3: Ken, Displacement (end 12), martial flexiblity (1)
+Round 4: Dimension Door (Equivalent ROUND 1)
+
+Incorporeal hand on Barl
+ - spectral hand that can deliver touch spells
+
+MacMurrian
+- stone giant wizard, reads magic books
+- likes the old stuff
+- cape back from exile - went to valley of black tower
+- They call thasaloneans Old Masters - they made them build the black tower
+- giants don't like the blakc tower, but MacMurrian is setting up operations and a tribe ther
+- Jorgenfist - the name of black tower
+- Grolekey - offed a troll
+- their goal was to make weapons, ogres do dam, hags do weather
+- Macmurrian wnated to break dam because of greedy souls
+- Barl's goal was to kill fort Rannick
+- hags worked with Kriegs before
+
+Loot
+- Note from Macmurrian
+- 9200 gp 
+- 32 +1 arrows
+- 12 +1 giant bane arrows
+- +2 light fortification studded leather (Jacques to take)
+- +1 composite longbow
+- +1 longsword
+- magical belt - incredible dex +2 (tommy)
+- magical cloak - cloak of elvenkind
+- magical boots
+
+Lucretia
+- psihedron rune
+ - +1 saving throws + false life for 1xday
+ - preserves body via gentle repose
+- 22 charged wand - scortching ray
+- +1 keen dagger
+- scroll - list of names - "those who agreed to grant their greed to the masters need"
+- 
+
+Barl
+- wand (unidentified, necromancy)
+- headband - vast intelligence +2 (Bearach) - knowledge arcana
+- psihedron rune
+- spellbook
+ - every necromancy spell level 1 thru 4
+- mastwork earth breaker larger
+
+Lamatar
+- magical bow - unidentified
+- +1 chain shirt
+
+Miriana - reincarnates Lamanar as an Elf Lamatar
 
 
 ### Session 58

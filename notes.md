@@ -20,8 +20,32 @@ CHECK NECROMANCY SPELLS FOR JAQEUS
 Bearach saw giants
 Jacques to take hour long buffs immediately. Then minues when closer
 
+### Session 61
+  - Jacques' plan
+    - 5 minutes out
+      - Barkskin
+      - Mutagen
+      - Heroism
+    - 1 minute out - if it looks dire
+      - Shield
+      - Bull's Strength
+      - Cat's Grace
+      - Long Arm
+
+In the distance - on top of Ravenroost (ridge to northeast)
+Currently 5-10 minutes away, about 10 giant figures
+
+Edge of the treeline we see large shapes (200 feet away)
+
+Red Dragon
+ - Juvinille - CR11
+
+ Teraktinus
+  - plus 2 stone giants
+  - left on crab street
+
 ### Session 60
- - Brodert Quink about the Balck Tower
+ - Brodert Quink about the Black Tower
    - he has no idea
    - but he has been studying the runewell
    - old light - tower of reigns of fire

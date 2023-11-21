@@ -4,6 +4,7 @@ Tail from snake lady
 Tail from Lucretia
 scorpion tail from skull ripper
 dust from pit fiend
+red cap from a RedCap
 
 Standard spell loadout
  - Level 1 (6)
@@ -22,9 +23,11 @@ Standard spell loadout
  - Level 4 (1)
    - echolocation
 
-My loot
-- 8 +1 undead bane arrows
-- 1 monstrous humanoid greater slaying arrow
+Daily Spells to other
+  - Bearach: Fly, Barkskin
+  - Marek: Barkskin
+  - Garek: Shield, Barkskin
+Cave
 
 Standard mutagen go-list (100 minutes)
  - barkskin
@@ -43,6 +46,37 @@ CHECK NECROMANCY SPELLS FOR JAQEUS
  - Skinsend (2) 
  - Umbral Infusion (4)
 
+### Session 67
+- plan -> someone invis JAcques to scout
+
+- tunnel exploration - natural caves - various signs of vermin
+  - hit a branch - left and straight
+  - left - 50 ft then T
+    - left
+      - 4 way, skeleton - large rodent
+    - right      
+      - another T
+  - straight
+    - Y intersection
+      - left
+        - T intersection
+      - right
+        - asked for perception
+        - gelatinous cube
+          - CR 3, acid does not harm stone, metal
+          - engulf -> paralyzes you
+          - fully occupying the tube
+          - small tunnel     
+          - killed the cube     
+
+find a hand-hune tunnel
+may be a constructed tunnel - ancient ruins
+
+tunnel ends - a weird dragon looking creature
+- rages
+- kobold
+- 
+
 ### Session 66
 - two caves by river
   - 50 ft above (with bones)
@@ -52,10 +86,7 @@ CHECK NECROMANCY SPELLS FOR JAQEUS
 - black tower
 - weird pit in middle of courtyard
 
-  - Bearach: Fly, Barkskin
-  - Marek: Barkskin
-  - Garek: Shield, Barkskin
-Cave
+
  - see 2 skeletons of roc (CR 9 - gargantuan bird)
  - other weird skeletons - collection of wyvern bones (large - CR 6)
  - all died violent deaths

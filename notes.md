@@ -5,6 +5,32 @@ Tail from Lucretia
 scorpion tail from skull ripper
 dust from pit fiend
 
+Standard spell loadout
+ - Level 1 (6)
+   - 3x shield
+   - enlarge person
+   - 2x OPEN SLOT
+ - Level 2 (5)
+   - 3x barkskin
+   - alchemical allocation
+   - invisibility
+ - Level 3 (4)
+   - Heroism
+   - Displacement
+   - Fly
+   - thorn body
+ - Level 4 (1)
+   - echolocation
+
+My loot
+- 8 +1 undead bane arrows
+- 1 monstrous humanoid greater slaying arrow
+
+Standard mutagen go-list (100 minutes)
+ - barkskin
+ - heroism
+ - echolocation
+
 CHECK NECROMANCY SPELLS FOR JAQEUS 
  - Catatonia (2) 
  - Deathwine (2) 
@@ -17,8 +43,220 @@ CHECK NECROMANCY SPELLS FOR JAQEUS
  - Skinsend (2) 
  - Umbral Infusion (4)
 
-Bearach saw giants
-Jacques to take hour long buffs immediately. Then minues when closer
+### Session 66
+- two caves by river
+  - 50 ft above (with bones)
+  - 150 ft above- non-descript
+
+- Conical tower (in center) - indent in it
+- black tower
+- weird pit in middle of courtyard
+
+  - Bearach: Fly, Barkskin
+  - Marek: Barkskin
+  - Garek: Shield, Barkskin
+Cave
+ - see 2 skeletons of roc (CR 9 - gargantuan bird)
+ - other weird skeletons - collection of wyvern bones (large - CR 6)
+ - all died violent deaths
+
+Invis and detect undead into this cave
+ - steep sloping down
+ - 50 ft wide
+ - 150 ft into the cave - see some treasure - a coin here or there
+ - then a solid coating of coins (difficult to walk)
+ - large chamber - 200 feet of cave entrance - treasure horde
+ - gems, pile, lots of coppers 
+ - treasure
+   - gemstones - water opal (1000), black opal (6000), blue diamond (1500)
+   - tapestry, large - group of monks sparring in a courtyard
+     - faint abjuration magic of thasalonean magic (same with idols)
+     - see the edge of the same black tower 
+     - revisit appraise - 600gp
+   - set of silver idols (wyvern human rider, human warrior trappeling demon,
+     centaur w/ full plate, leaping fish with teeth, runelord karzoug)
+      - statue of karzoug is made from a different metal. All others are silver.
+      - but Karzoug is platinum. Worth considerably more
+   - nothing magical
+   - feel like we cased the room well
+
+50 ft cave over Mushkal river
+  - stinks like reptiles
+  - bones oruks remains and mammoths
+  - light bouncing off something shiny in the back
+  - small mound of sand w/ gemstone
+  - fire opal - 200 gp - re-evaluate
+  - chest with staff (unidentified)
+  - chest
+    - money! 1500 gp
+
+Upper cave
+  - husks of spiders - undead
+  - deathwebs
+  - lots of bugs
+  - highly unnatural
+  - product of concerted necromatic effort
+  - Loot
+   - dozen longswords
+    - large +1 longsword
+   - halberd
+    - +2 medium halberd
+   - 3 large war hammers - mundane
+   - full plate
+     - mundane medium
+   - staff
+     - magical - once owned by druid
+     - spell staff -> rusting grasp (one cast) CL12
+
+  Tunnel leading north
+
+
+
+### Session 65
+- gave extracts
+  - Bearach: Fly, Barkskin
+  - Marek: Barkskin
+  - Garek: Shield, Barkskin
+Killed 6 hill giants 
+There is a clear foot traffic / trail leading away (likely to Black Tower)
+Treasure
+ - 3000 sp - only silver pieces
+ - carved mammoth bone statuette of smaller mammoth -> 500 gp
+ - eye patch w/ mock eye - saphire and moonstone -> 500gp
+ - mithral anklet -> 700 gp
+ - jeweled golden crown -> proper crown -> this may be THE lost crown of palgreeves clan (oldest noble families of Janderhoff) - several 1000gp of craftmenship, but if famous, could be 10k gp
+ - magical scarf - +2 defending bladed scarf
+ - leather pouch - 5 potions cure moderate
+ - potion of remove disease
+ - magical quiver and magical arrows - efficient quiver, 16 +1 undead bane, 1 greater monstrous humanoid slaying arrow
+
+ Saw a couple of figures by a boulder but then they disappeared.
+ Bipedal and quadrepedal. Likely they know we are coming.
+
+ down a slope - leading a ridge then turns to the left and get a view of a large valley
+
+ Valley of the Black Tower
+ - mountains give way to valley perched on a cliff. Darkness over cliff to southeast (likely to shores of river)
+ - Lone watch tower on a hill, closer to us
+ - 50ft tall wall surrounding several building
+ - black tower, crenelations -older - Thasalonean - black stones, lichens moss gargoyles.
+ - 150ft tall stone tower in center with 3 smaller buildings
+ - towers into fortress wall. One is wider and is a gate
+ - surrounding is multiple camps occupied by giants
+ - some thasalonean vibes. But lots of newer things. 
+ - miles away. 
+ - cave entrance on the far east
+ - the bend is where we have to be careful - 1/2 mile away
+ - cave entrances above the Muskcall river - looking to lead into the town
+ - 100 feet tops of cliff face
+
+ - cave in mountain - 450 feet up side of vertical mountain face
+ - around outside landing - shattered animal remains, wyvern corpses
+ - 
+
+ - commune with birds
+   - the large birds are eaten by hunters (giants and winged not birds - large)
+
+- gave extracts
+  - Bearach: Fly, Barkskin
+  - Marek: Barkskin
+  - Garek: Shield, Barkskin
+
+### Session 64
+- Harpies
+ - CR 4, fly, feet talons, song to cause effects
+ - live in tribal groups, up to dozens
+ - known to hang out with giant like creatures (etin, ogres)
+
+- summon mount communal to get horses for 5.5 hours
+- heading to the plains southwest of the stairs.
+- farmland-ish. Struggle with giants signs - eg. burt ox cart, ogre hook in earth
+- see signs of old battle, giants stones leaving scars, pulped farmer body
+- pile of recently disturbed earth - makeshift grave for stone giant
+- find an enormous campsite (ring of boulders and whole trees)
+- Orox - 14 ft beat of burden roasted
+- Day 1 - 12 hours on 2 castings of mounted horse gets us to this place
+
+- In the distance off towards Ravenmoor - see a thorp - see some lights - only 30 minutes
+- it is a ranch, barn, lifestock, farmhouse
+- rough frontier fellow opens the door - Rick Perry
+- he hasn't seen harpies in a while
+
+- Set off toward Storval Stairs in the morning
+- hear ogres, hoofed creatures - about a mile or two away
+- 5 chonky ogres
+- 
+- Chest
+ - 6000 silver pieces
+ - 3 casks of brandy - good barrels - 400gp per, weighing 300 lbs
+ - 5 +1 ogre hooks
+
+ To the stairs
+ - can see the Storval plateau - sheer cliff - 1000 ft tall
+ - then we see the stairs - nestled amongst a local low point in the cliff
+ - rise up and see buildings carved into cliff face. 
+ - on each side - see an enormous statue - depictions of Runelord Karzoug
+ - some erosion on 
+ - hill giant perched on left statue
+
+ - sign - claimed for MAcmurrians - no harpies or ogres or etinsallowed
+
+
+### Session 63
+ - Level up
+   - swap headband with Bearach
+   - get +2 mithral Breastplate from Magnimar
+ - buffs off
+  - cats grace
+  - shield, barskin
+  - skald' rage, mutagen
+  - heroism, thorn body
+
+  JOrgen fist - black tower - Storvall plateau
+   - overlooks Muschkall river
+   - east from storvall stairs
+   - macmurrian lives deep below
+   - in iron peaks
+
+  MacMurrian
+   - dark giants of old - magic
+   - master of the ancient arts
+   - dragon is macmurrian thralls
+   - dragon lair is in JOrgen dergen
+   - Big T wanted to go to Old Light to read stones
+   - 
+
+loot sweep 
+  - remaining stone giants have traditional clubs, 
+  - dragon -> 
+    - amulet -> mighty fists +1
+
+Storval stairs
+ - famous landmark 
+ - canyon landmark (1000 feet tall)
+ - set of giant stairs carved into the wall of the canyon leading to the Storval plateau
+ - people assume these are Thasalonean stairs
+ - many have made these stairs there home (trolls, harpies)
+ - stairs are lined w/ large statues of Karzoug (runelord of greed)
+
+Jorgenfist / Black Tower
+ - named after Thasalonean ruin, lying in the valley
+ - scholars have not had access to this area for a long time
+ - this may be a taboo place
+ - gaints were enslaved by Thasaloneans
+ - 
+
+### Session 62
+- round 24 -> displacement
+- round 25 -> shield
+- Looting!
+  - mundane greatclubs - 7x
+  - +1 dwarfbane heavy pick (8k)
+  - +1 light pick (2k)
+  - +2 hide armor (large) (+4k)
+  - ring of prot +1 (+2k)
+
+- we have captives
 
 ### Session 61
   - Jacques' plan

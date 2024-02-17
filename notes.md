@@ -5,6 +5,7 @@ Tail from Lucretia
 scorpion tail from skull ripper
 dust from pit fiend
 red cap from a RedCap
+red liquid bubbly from cauldron in O'mallyhoo basement
 
 Standard spell loadout
  - Level 1 (6)
@@ -34,17 +35,188 @@ Standard mutagen go-list (100 minutes)
  - heroism
  - echolocation
 
-CHECK NECROMANCY SPELLS FOR JAQEUS 
- - Catatonia (2) 
- - Deathwine (2) 
- - Earsend (4) 
+CHECK NECROMANCY SPELLS FOR JAQEUS
+ - Catatonia (2)
+ - Deathwine (2)
+ - Earsend (4)
  - False Life (2)
- - False Life, Greater (4) 
- - Languid Venom (2) 
+ - False Life, Greater (4)
+ - Languid Venom (2)
  - Marionette Possession (3)
  - Phantom Blood (1)
- - Skinsend (2) 
+ - Skinsend (2)
  - Umbral Infusion (4)
+
+### Session 73
+ - Lecture hall
+ - Mokmurian fight
+ - columns inscribed with runes - ceiling
+ - room lit
+ - piles of arcane trappings
+ - arcanists library or storeroom
+ - wide flight of stairs rising to a door. Stage - Mokmurian on stage
+ - ironbound chest, scrolls, etc.
+ - cloud fog #2 
+   - difficult to breath
+   - swimming in air - solid fog - takes half speed
+  - he dimensioned doored' away
+    - books outside worth a lot
+    - treasure - 1000s of gp, gems, jewelry
+    - scroll
+    - 
+
+  stash
+
+### Session 72
+Northeast door
+- hounds of thindalos (4)
+- scorch marks
+- smooth room
+
+
+### Session 71
+Room of armor on frozen corpses
+ - there are undead
+ - likely zombies
+ -
+
+ Silo room
+ - too tall to see top
+ - workbench - maybe for the forge creature
+ - old storage room
+ - at top - arch ceiling - 100 feet off ground
+ - tools - no magic
+
+ Loot
+ - garbage armor & clubs
+ - 2 magical hatchets - rune chill hatchets, +1 hand axe
+   - once per day, the wielder as a free action causes them to glow for 6 rounds
+   - 1d6 negative energy damage - DC 12 fort save for 1 strength dam
+   - 5300 each
+ - +1 large full plate
+ - no loot on forgefiend - strong construct vibes
+
+Hallway with doors
+- intricate doors, and structures
+- carved in many runes - seven pointed star repeated
+- east cave in
+- west - immense bronze doors - mirror silver inlay finish of psyhedron rune
+- other door w/ no other handles, locks, indentations - save for key hole in the shape of a psyhedron rune
+- Thasalonean runes
+- something about a peacock spirit?
+-
+
+
+
+### Session 70
+Ready to go to library
+
+Scouting
+- rubble to east - impassable
+- Thasalonean vibe
+- southern opening
+ - pair double doors to south
+ - floor is made of glossy polished marble
+ - hard to make out dimensions of the room
+ - light source - biolumensecnse
+ - see a creature - giant (not stone) skin has been subject to markings and - hill giant
+ - room of reduce person
+
+ Loot
+ - greatclub
+ - hide breastplate
+ - runes on body are thasaloneans - like tatoos inflicted upon him
+ - he had caste haste on himself
+
+Next room with cauldron
+- stone golem
+- solid iron cauldron with marking of psihedron rune
+- halo of dried flesh and bones around cauldron base
+- red bubbling viscous fluid
+- conjuration magic and necromancy
+- magic is in the cauldron
+- Garek lore masters for it
+- this is used to annoint creatures. transmuates them.
+- runes could make people turn into the runeslave (hill giant)
+- you must die first to enter the cauldron
+
+Next room
+- getting colder - can see our breath
+- room has several large suits of armor on frozen/preserved bodies
+- one is lacking a head
+- 5 in total
+- detect no magic
+- jacques detects undead
+
+### Session 69
+- she is offering to help
+- normally stone giant are not violent
+- Mokmurian convinced them to blood fervor
+- if we can take out Mokmurian we could restore order
+- she asks us to not slay stone giants except for Mokurian
+- Mokmurian is her child, runt of the litter
+- the find value of giants with sorcerer abilities
+- he studied magics from books
+- he was exiled from the tribe
+- murdered her husband (maybe dad)
+- chose this place:
+  - complex built ontop of an old Thasalonean library
+  - books of the old masters
+  - tunnel to southeast - no one else is allowed in
+    - past mess hall - to the east - another tunnel - junction w/ a tannery run by ogres - they can die
+    - giants to the east that operate the smithy - they use some small folk slaves to stoke the fires
+    - to the east is a tunnel that leads to southeast - to finished Thasalonean ruins
+    - potentially traps, gaurds, magic present
+    - Mokmurian in possession of most of his clan's wealth
+  - rumors that Gallamir was banging saderna of watchtower
+  - why sandpoint
+    - scouting parties to the lowlands, but unclear why
+    - fears he may be under alien control and compulsion
+  - go to the south, not east - there are some dragons
+  - two lamias that travel with Mokmurian
+
+  - And away we go - dire bear fur
+  - skalps and war trophies
+
+
+  - we wind walk by the smithy
+    - 4 anvils
+    - bellows - extend into confines w/ straw
+    - can see two barely recognizable dwarves - shaved beards
+    - one stone giant that we can see but hear another hammer
+
+  - tunnels widen to see glittering micah
+  - bones and half eaten food on piles of furs (bed)
+
+  - southeast
+   - tunnel slopes downward - hung with furs
+   -
+  - troll fights
+    - magical ransuers - +2 large ranseurs x2
+    - magical breastplates - +2 large breastplate x2
+    - bag - colorful rocks (100 lbs), all worthless
+    - bag - armor - small halfplate, masterwork breastplate, magical gauntlet, 6 chain shirts
+    - small magical gem
+
+    - continue down the passage
+    - natural cavern to worked stone
+    - smooth arcs, no hard lines - subtly alien
+    - 700-800 ft below ground
+    - its been ~ 80 minutes
+
+    - pick it up next time scouting
+
+
+### Session 68
+- Met a woman giant
+- in her chamber
+  - giant children
+  - little people (dwarves) being crushed under giant feet
+  - oil lantern lighting it
+  - offering of animals
+  - her husband haunts this place
+  - her name: Conna the Wise
+  - some of the images are shifting
 
 ### Session 67
 - plan -> someone invis JAcques to scout
@@ -75,7 +247,7 @@ may be a constructed tunnel - ancient ruins
 tunnel ends - a weird dragon looking creature
 - rages
 - kobold
-- 
+-
 
 ### Session 66
 - two caves by river
@@ -97,12 +269,12 @@ Invis and detect undead into this cave
  - 150 ft into the cave - see some treasure - a coin here or there
  - then a solid coating of coins (difficult to walk)
  - large chamber - 200 feet of cave entrance - treasure horde
- - gems, pile, lots of coppers 
+ - gems, pile, lots of coppers
  - treasure
    - gemstones - water opal (1000), black opal (6000), blue diamond (1500)
    - tapestry, large - group of monks sparring in a courtyard
      - faint abjuration magic of thasalonean magic (same with idols)
-     - see the edge of the same black tower 
+     - see the edge of the same black tower
      - revisit appraise - 600gp
    - set of silver idols (wyvern human rider, human warrior trappeling demon,
      centaur w/ full plate, leaping fish with teeth, runelord karzoug)
@@ -148,7 +320,7 @@ Upper cave
   - Bearach: Fly, Barkskin
   - Marek: Barkskin
   - Garek: Shield, Barkskin
-Killed 6 hill giants 
+Killed 6 hill giants
 There is a clear foot traffic / trail leading away (likely to Black Tower)
 Treasure
  - 3000 sp - only silver pieces
@@ -174,8 +346,8 @@ Treasure
  - 150ft tall stone tower in center with 3 smaller buildings
  - towers into fortress wall. One is wider and is a gate
  - surrounding is multiple camps occupied by giants
- - some thasalonean vibes. But lots of newer things. 
- - miles away. 
+ - some thasalonean vibes. But lots of newer things.
+ - miles away.
  - cave entrance on the far east
  - the bend is where we have to be careful - 1/2 mile away
  - cave entrances above the Muskcall river - looking to lead into the town
@@ -183,7 +355,7 @@ Treasure
 
  - cave in mountain - 450 feet up side of vertical mountain face
  - around outside landing - shattered animal remains, wyvern corpses
- - 
+ -
 
  - commune with birds
    - the large birds are eaten by hunters (giants and winged not birds - large)
@@ -216,7 +388,7 @@ Treasure
 - Set off toward Storval Stairs in the morning
 - hear ogres, hoofed creatures - about a mile or two away
 - 5 chonky ogres
-- 
+-
 - Chest
  - 6000 silver pieces
  - 3 casks of brandy - good barrels - 400gp per, weighing 300 lbs
@@ -225,9 +397,9 @@ Treasure
  To the stairs
  - can see the Storval plateau - sheer cliff - 1000 ft tall
  - then we see the stairs - nestled amongst a local low point in the cliff
- - rise up and see buildings carved into cliff face. 
+ - rise up and see buildings carved into cliff face.
  - on each side - see an enormous statue - depictions of Runelord Karzoug
- - some erosion on 
+ - some erosion on
  - hill giant perched on left statue
 
  - sign - claimed for MAcmurrians - no harpies or ogres or etinsallowed
@@ -255,15 +427,15 @@ Treasure
    - dragon is macmurrian thralls
    - dragon lair is in JOrgen dergen
    - Big T wanted to go to Old Light to read stones
-   - 
+   -
 
-loot sweep 
-  - remaining stone giants have traditional clubs, 
-  - dragon -> 
+loot sweep
+  - remaining stone giants have traditional clubs,
+  - dragon ->
     - amulet -> mighty fists +1
 
 Storval stairs
- - famous landmark 
+ - famous landmark
  - canyon landmark (1000 feet tall)
  - set of giant stairs carved into the wall of the canyon leading to the Storval plateau
  - people assume these are Thasalonean stairs
@@ -275,7 +447,7 @@ Jorgenfist / Black Tower
  - scholars have not had access to this area for a long time
  - this may be a taboo place
  - gaints were enslaved by Thasaloneans
- - 
+ -
 
 ### Session 62
 - round 24 -> displacement
@@ -334,7 +506,7 @@ Divination
 
 ### Session 59
 Round 1: Greater Invis (end Round 11)
-Round 2: haste (end 12), Thorn Body (end Round 11) 
+Round 2: haste (end 12), Thorn Body (end Round 11)
 Round 3: Ken, Displacement (end 12), martial flexiblity (1)
 Round 4: Dimension Door (Equivalent ROUND 1)
 
@@ -356,7 +528,7 @@ MacMurrian
 
 Loot
 - Note from Macmurrian
-- 9200 gp 
+- 9200 gp
 - 32 +1 arrows
 - 12 +1 giant bane arrows
 - +2 light fortification studded leather (Jacques to take)
@@ -373,7 +545,7 @@ Lucretia
 - 22 charged wand - scortching ray
 - +1 keen dagger
 - scroll - list of names - "those who agreed to grant their greed to the masters need"
-- 
+-
 
 Barl
 - wand (unidentified, necromancy)
@@ -401,7 +573,7 @@ Miriana - reincarnates Lamanar as an Elf Lamatar
   - body parts, dead animals, filth, bubbling cauldron
   - not impressed with the ogres
   - they don't know much about macMurian
-  - Barrel lives here 
+  - Barrel lives here
   - they are brewing something to make it rain
   - these are anis hags - CR 6, blindfight
 - north - gigantic chamber
@@ -409,7 +581,7 @@ Miriana - reincarnates Lamanar as an Elf Lamatar
   - natural light to the north
   - stone giant in an immense stone throne
   - another stone giant at attention
-- south 
+- south
   - shrine - ferrel vision of a pregnant lady - Lamashtu
   - fucking guy - undead looking awful
   - medium creature, clothes are black arrow
@@ -434,7 +606,7 @@ Miriana - reincarnates Lamanar as an Elf Lamatar
   - anvils loom throughout
  - southern cave
   - 3 creatures - weird hunched over female creatures, arranging body parts - hags, uncommonly large
-  - 1 giant like creatures - Hill giant, 
+  - 1 giant like creatures - Hill giant,
   - body parts and dead animals, filth
   - a large cauldron
 

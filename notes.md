@@ -6,46 +6,1460 @@ scorpion tail from skull ripper
 dust from pit fiend
 red cap from a RedCap
 red liquid bubbly from cauldron in O'mallyhoo basement
+claw from Glabrezou demon below sandpoint
+scales from ancient white dragon
+tentacle from the HIdden Beast
+dragonhide scalemale scales from Ghlorofaex
+hair from yeti spellcaster in case of polymorph
+
+Spells to scribe
+- Decipher the magic: DC 20 + spell level...jacques would need to roll: 2/3/4/5/6/7
+- Jacques auto succeeds the spellcraft check to add for levels 1-5
+ - LEVEL 1
+    - Cost per: 10gp and 2 hours
+    - Total: 2 -> 20gp, 4 hours
+    - Jump ***
+  - LEVEL 2
+    - Cost per: 40gp and 3 hours
+    - Total: 7 -> 280gp and 21 hours 
+    - Alter Self ***
+    - Blur ***
+    - Delay Poison ***
+    - Detect Thoughts ***
+  - LEVEL 3
+    - Cost per: 90gp and 4 hours
+    - Total: 5 -> 450gp and 20 hours
+    - Protetion from Energy ***
+    - Remove Curse ***
+    - Water Breathing ***
+  - LEVEL 5
+    - Cost per: 250gp + 6 hours
+    - Sending
+    - Overland Flight (maybe)
+    - Beast Shape III (maybe)
+    - Contact Other Plane (maybe)
+  - LEVEL 6 
+    - Cost per: 360gp + 7 hours
+    - Eyebite (maybe)
 
 Standard spell loadout
- - Level 1 (6)
-   - 3x shield
-   - enlarge person
-   - 2x OPEN SLOT
- - Level 2 (5)
-   - 3x barkskin
-   - alchemical allocation
-   - invisibility
- - Level 3 (4)
-   - Heroism
-   - Displacement
-   - Fly
-   - thorn body
- - Level 4 (1)
-   - echolocation
+ - Level 1 (7)
+   - 3x shield (Me, Me, Garek, Garek)   
+   - 2x enlarge person (to combine with enlarge person via admixture vial, use boro bead)
+   - 2x long arm (to combine with enlarge person via admixutre vial) 
+   - 1x identify  
+ - Level 2 (6)
+   - 2x barkskin (all) -> use both boro beads
+   - 1x darkvision (Garek)   
+   - 1x Owl's Wisdom
+   - 2x Bear's Endurance (Bearach, Garek)
+ - Level 3 (6)
+   - 1x Heroism (me)
+   - 1x Displacement (Marek)
+   - 2x Fly (Bearach, Garek)     
+   - 2x Thorn Body (me, Bearach)
+ - Level 4 (5)
+   - 1x Echolocation
+   - 1x Freedom movement
+   - 2x Greater Invisibility
+   - 1x Arcane Eye   
+ - Level 5 (4)
+   - 1x Delayed Consumption
+   - 1x Stoneskin Communal
+   - 2x Grand Destiny   
+ - Level 6 (1)
+   - 1x Giant Form 1
 
-Daily Spells to other
-  - Bearach: Fly, Barkskin
-  - Marek: Barkskin
-  - Garek: Shield, Barkskin
-Cave
+Daily Spells to others
+  - Bearach: Barkskin, Fly, Enlarge Person + Longarm, Bear's Endurance, Thorn body
+  - Marek: Barkskin, Darkvision, =Displacement
+  - Garek: Shield x2, Barkskin, Fly, Bear's Endurance
 
-Standard mutagen go-list (100 minutes)
+Standard mutagen go-list (140 minutes)
  - barkskin
  - heroism
  - echolocation
+ - freedom movement
+ - Grand Destiny
 
-CHECK NECROMANCY SPELLS FOR JAQEUS
- - Catatonia (2)
- - Deathwine (2)
- - Earsend (4)
- - False Life (2)
- - False Life, Greater (4)
- - Languid Venom (2)
- - Marionette Possession (3)
- - Phantom Blood (1)
- - Skinsend (2)
- - Umbral Infusion (4)
+# Bottlecaps
+  - 1/3 for When to go
+  - 1/3 for Frost Giant
+
+# Stoneskin Communal uses
+  - 8
+
+## Session 110 (July 31, 2025)
+  - tower is windowless
+  - small window in the tower - flaw in the stonework
+  - I send arcane eye in to investigate
+    - 2200 foot tower just short of likeness of Karzoug
+    - many arched opening at ground level. Rest is solid stone
+    - outside stone is carved in runes of greed
+    - see a hole that is carved in the side
+    - see an angel (solar) was crying
+    - room is opulent, guarding hole in the wall
+    - carved from the outside
+    - Garek lore master - planetar creature (CR 16), large angel NG
+      - generals of celestial armies
+    - tried to teleport - didn't work - to the prison
+  - we fly/invis to it
+    - it is not magically compelled
+    - single light in a sconce - not magical
+  - we dismiss the angel and get inside
+    - it has air etc.
+    - teleportation does not work
+    - stoneskin communal cast
+    - grand desiny
+  - Open a door
+    - see Karzoug - "you fools have found me"
+    - "death that awaits us", calls us "maggots"
+    - project image
+    - Garek feels like his body is being turned inward
+    - this seems to just be a projection of Karzoug
+    - Bearach (with domineering weapon) could disrupt it
+    - bearach hits image and shatters the image
+  - Big chair to the northwest
+  - double doors close - going through
+    - thick carpet - fireplace on norther wall - furs and cushions
+  - Roll into initiative with the lamias for Adventure Weekend
+
+## Session 120 (July 23, 2025)
+- Level 17!!!
+- rest up via rope trick in the city 
+- preserving flask -> shield
+- delayed consumption -> greater invis
+- going up the mountain - find a tunnel
+- In the tunnel
+  - down stairs into a storage room, frozen, petrified crate
+  - crack in wall - fissure
+  - we leaver Barley 2 to guard our backside since he can't fit
+  - very long tunnel
+  - we are life bubbled (8 hours per person)
+  - Beararch 15 feet ahead, Jacques, Marek, Garek
+  - Bearach sees something in the ceiling
+  - creature - tentacles and gaping maw
+  - we destroy it
+  - eventually see a light at the end of the tunnel - odd light
+  - sky above - is strange - not much atmosphere left - sky almost black
+- emerged on a plateau
+  - staircase coming up from the south
+  - blue and gold building - enormous tower, 2200 feet tall, just below karzoug face
+  - alabastair sheen - towers to the northeast - 800 feet tall
+  - gerthy structures to west, 400 feet tall
+  - creature cluster - walking near but not on the ground - coming towards us
+    - spiders - Leng spiders - huge magical beasts
+    - always have odd # legs
+    - termorsense, darkvision, arcane sight
+    - ranged web attack
+    - CR 14, air walk
+    - immune cold, sonic, poison, SR, fast healing, ~200 HP
+    - they seem to have flails
+    - trying to move stealthy
+    - Aklo but also speak in tongues
+  - Spiders approach to about 50 feet
+    - they seem to be our allies
+    - there is a device by fellow Leng travellers - they want us to destroy it
+    - their enemies have 2 legs and arm (denizens of leng) - same creatre we saw in the streets
+    - they are creating the device for Karzoug - they built this 10,000 years ago
+    - they cannot go in themselves (plane boundary?)
+    - heredins resides in southwest trip nip - type of lamia (large cat, giant woman)
+    - eastern trip nip used to be a prison - empty now - golems now patrol
+  - we decide to fly/invis over to the prison on the east
+
+## Session 119 (July 14, 2025)
+ - Exploring to find the tunnel
+ - hear some giants arguing. Cast silence to move quietly
+ - still silent - see - 1 rune giant, 2 smaller
+ - FIGHT
+   - grand destiny
+   - rune giant rune erupts in sparks (28 failed, ~55 points elec/fire)
+   - Garek dies
+   - Loot
+     - chain shirt, huge
+     - gargantuan morningstar, mtwdk
+     - gargantuan mswk longsword
+     - gargantuan mwk spear x3
+     - mstwk full plate
+
+
+
+## Session 118 (June 26, 2025)
+ - YoorGoor turns into a human on death
+ - book and staff - a sorcerer
+ - chin tattoo - rune of greed
+ - loot
+   - dagger - not magical - masterwork
+   - amulet - natural armor +2  (Marek)
+   - magical robes - evil robe of the archmagi, +4 int bonus (Jacques)
+   - ring - psihedron ring
+   - ivory statuette of a stone giant
+     - maybe a material component for contingency
+   - spellbooks
+      - any CRB without enchantment or illusion
+   - 
+ - Jacques takes some hair from this spellcaster in case of polymorph by scaplping
+ - take the night and tunnel up 
+ - have a quickened greater invis
+ - preserving flask shield
+
+
+## Session 117 (June 12, 2025)
+  - teleport to the cryangle
+  - stealth to the mysterious yeti dome
+  - hear some weird creatures - they didn't spot us
+  - they speak Aklo
+  - to yetis
+    - Bearach, Marek invis
+    - Garek dressed like the weird creatures and I as a prisoner
+  - dome - 700 feet - double dome with arches
+  - interior is mostly wide open - feels like a chasm
+  - currently in the center is a giant heap of rubble - 100 feet tall
+  - a whole bunch of Yetis
+  - mention a name - VorGor - looks like a yeti - was accepted into fold of Karzoug
+    - he returns every once in a while for guidance
+    - they don't know how Vorgor goes up mountain
+  - standard yeti is CR 4 - these are likely much harder, immune cold, vuln fire
+  - says the these weird creatures also live up Mar Masif
+  - they made a deal w/ Karzoug - they can live here without trouble as long as they hunt for the group
+
+  - we rope trick and we are waiting for VorGor to show up
+  - 55 hours pass
+  - VorGor appears
+  - buffed up
+  - stoneskinned 150 hp
+  - grand destiny: 2
+
+## Session 116 (June 5, 2025)
+ - Jacques failes pollen save - and is entranced
+ - teleport back to caves - to reset
+ - rest
+ -  Packs
+  - jacques will grand destiny and greater invis in chamber from before
+  - i swapped arcane eye for freedome of movement for Bearch
+  - killed the Root
+  - some +2 longswords - 4 of them
+  - root may rejuvinate
+  - we hack at the root to prevent it
+  - used to grow out a bath installation
+ - Maybe to Yeits
+   - Aklo to parlay
+   - live in packs
+   - live in mountains
+   - mystery to origins
+
+## Session 115 (May 29, 2025)
+- looting bodies - nothing
+- in the bush - find a body of a rune giant - wielding a longsword, in vines
+- vines sense us, drag the body, then gives up to the south
+- +2 gargantuan longsword - leave it hear for maybe Marek to raise dead w/ Desecrate
+- Bearach sees a plant at the intersection
+  - tendriculous
+  - swallow whole, paralysis, reach, regen (bludg, fire damage)
+- Garek talks to it
+  - it eats skulks
+  - likely giants too
+- Talked about THE ROOT
+  - a big boy
+  - he's in charge of the tangle
+  - smartest plant he knows
+  - off to the northwest
+  - his name is Harry
+- to the root
+  - go over dead trees, then to the north over the creek
+  - shambling mound fight
+  - levatating blob - ozze add
+  - shoots rays of energy
+  - plasma ooze - CR16 - untyped CR, blindsight
+  - kill them
+- Tangle 2
+  - ruined buidlings - growth is thicker, more mature
+  - spent last grand destiny on will save 
+  - fail - compelled to go so the southwest
+- Use bottlecap when reaching the root - pass save
+  - this use to be a thermal hot spring
+  - collosal creature, surrounded by bones
+  - massive fungal growth
+  - 6 rounds of haste left
+  - I just long armed/enlarged person
+  - bearach still dominated
+
+## Session 114 (May 22, 2025)
+- delayed consumption, greater invis in chamber
+- cast buffs before going down hallway in dragon chamber and door at end
+  - just a door to outside
+- inside there is a grate - looks like an old teller
+  - one door is a mail room?
+- jacked up strength check to bend bars - everyone in
+- rifled through filing cabinets
+  - mostly documents in a old society, bale bonds
+  - ransacked
+- other room - wheeled bins
+  - a few coins around
+  - find one modern Golarion coin that we put in Book 1
+
+- teleport to nippodrome
+- arched entrances - wall separates concourse and hippodrome. Stairs lead up to seats
+- statue - to the southeast - emerging from the vines - giant, stone giant, holding a bar with reigns, two mastodons
+- hear a screaming sound emanating from the vines
+- the petals seem "wrong"
+- might find a trail into the fines
+
+into the Tangle
+- see a yellow musk creeper. Get Bearach entranced
+- zombie joins
+- ooze joins - plants quiver
+- grand destiny now 1/4
+- fall asleep - prone, no weapon
+
+## Session 113 (April 21, 2025)
+- Determined that the rod is an ivory 
+- Identified psihedron rings again (46)
+  - not cursed
+  - +3 def bonus AC, +3 resistance to save, constant endure elements
+  - can disguise clothing or armor
+- Dragon lair
+  - was the old tax building
+  - locked gate to the east
+- - see a wounded blue dragon - it attacks us (failed stealth)
+- Me - 4 rounds
+  - refreshed boro bead for barsking -> Bearach
+  - Barkskin
+  - Shield
+  - Grand Destiny (2/4)
+- Killed Gholorfaex
+- ring on it
+- to the lair
+  - secret door on the dais
+- LOOT
+  - 40k GP
+  - jewelry, silk gloves - 1k GP
+  - suit masterwork mithral half plate
+  - masterwork breastplate
+  - +2 banded mail
+  - Wand of Lightning bolt (23 charges)
+  - leather bag of empty potions
+  - ring of evasion - grants evasion
+  - rod - rod of extend 
+
+
+## Session 112 (Mar 31, 2025)
+ - killed 3 spiders
+ - escaped a haunt
+ - forced cage, mages sword
+ - Shemhazian Demon - we released to kill dragon?
+ - explore room
+   - outsider binding room
+   - nothing magical
+  - books 
+    - histories
+    - maps
+    - journal, plans of collesium
+    - magical book - conjuration - fantastic creatures of the beyond
+      - beastiary of outsider knowledge
+      - allows us to make Knowledge Planes check to identify outsider w/ +5 bonus
+      - full round action -> take 20
+      
+
+## Session 111 (Mar 24, 2025)
+- fighting many spiders and big baddies
+- killed some spider, brass golem, weird do
+- found a secret door -> battle axe - blackened blade w/ oroborous
+  - axe of forced life - +3 battleaxe - undead reduces 
+  - $43,000 
+- large +1 falchion
+- found a door - ready to go and fight - rolling initiatives
+
+## Session 110 (Mar 10, 2025)
+- rough ground with iron chains
+- bottom of a ledge
+- a second door below
+- mass grave pit, skeletons
+  - larger pile of weapons
+  - lower door connects in
+- Stoneskin communal to all
+- Energy Resistance Fire
+- scarlet walkers come from Leng
+- pantry - satchel
+  - rod - 28 spellcraft - (on nat 1) - 
+- bone pile in north
+  - weapons stuck into something corporeal
+  - it is a creature - Purrodaemon
+  - dread wraith
+  - killed dread wraith & purrodaemon
+- loot: magical weapon - kopesh - sphinx - riddling kopesh
+
+
+
+## Session 109 (Feb 24, 2025)
+- ice devil loot 
+   - spear
+     - +1 frost, returning spear
+   - ring
+     - psihedron 
+- tunnels below
+  - 1 grand destiny left
+  - 2d6 fire damage each round for 5 rounds
+    - 1 round
+    - i took all 5 rounds
+  - killed 1 scarlet walker and 2 shining children
+  - our plan is to keep exploring these tunnesl
+
+## Session 108 (Feb 17, 2025)
+  - we can rest in their tunnels whenever we need
+  - when we are in the city above, they will scout for us  
+  - OUR THEORY: we need a psihedron medallion or ring to gain access to mountain
+  - the volcano - the skulks call it The Great Emancipator
+
+  - Going to the Trip Nip to scout Stadium
+    - invis all, life bubble all (8 hours),
+    - arrive at the "r" on the map
+    - see some footsteps in the ground, but off main round. Not a lot of action 
+    - dimension door in top nip
+    - entire building is empty space. Doors around. Minimal light
+  - Eye scouting of stadium
+    - crstalline dome, 1/4 mile in diameter.
+    - 7 sided star, some fascade has worn away, but looks sound. 500 ft tall
+    - 7 panel dome of crystal, with spire extending north 200 feet
+    - 7 towers around dome, pitched out in support
+    - they give windows into the stadium
+    - place is still lit at night
+    - through the crstal, enormous stands (spectators)
+    - appears to be limited movement inside
+    - some fancy seating in there 
+    - holes in the sand floor
+    - bunch of entrances into building
+    - staff entrances seem to be dark tunnels
+    - 5 eyes don't come back
+    - floor pits (only one report) - dark maze
+    - fancy bleachers - lots of them - stairs down and a door
+  Teleporting to Stadium
+    - make it even though only "seen once"
+    - in luxury box
+    - find chests of coin - chest worth a couple hundred GP. 15,000 GP coin
+    - bearcah put in bag of holding
+    - teleport to the pits - see a weird creature at the top - summons 2 spiny devils
+    - see a creature with large red limbs unfold itslef come down
+  Fight
+    - Ice devil - cold stuff, summon bone devils, high AC, immune fire/cold/poison, SR, DR/good, has a spear (frosty)
+    - two scarlet walkers
+    - 2 summoned bone devils
+  1 grand destinies spent on fear presence
+  - marek heals us and then we called session before garek
+  - marke has one mirror image
+  - garek has mirror image
+
+## Session 107 (Feb 10, 2025)
+  - chip into the northwest - find coffins of vampires
+  - explored the southwest and northeast cooridors - nothing really - passing
+    occassional dried out body, burial coffins, run into some skulks
+  - stadium - great demon - can disappear for decades at a time
+    - heptarcus locus = stadium
+    - ice devil, insectoid
+  - Crack Neuratha - where the fortress is - livestock (within last 5 years)
+    - orox - meat for giants, also weird crow birds
+  - magic prevents following the golden road - to the top
+    - two things - altitude - close to the death zone
+    - also magic - large folk and them can't go up - only some can pierce it
+    - magic tied to Karzoug
+    - seen the devil going up the mountain or visited from agents up the mountain
+  - blue dragon - Glorifex - thinking that dragons serve Karzoug
+  - nippodrome
+    - swallowed by the tangle (vines)
+    - they are scared of the plants/vines
+    - jungle susstained by heat
+  - northeast tunnel - home to creature- leads up into the mountain
+
+## Session 106 (Feb 3, 2025)
+- basement gallery - raised balcony - 2 stairs
+- pillars line the perimeter - center, dias, musty robe, skeletal
+- flying spagetti monster - decapus
+- skulks
+- "killed" a skulk - turned to gas?
+- killed the decapus
+- all mists going through the stone below
+- we summoned an earth elemental. There is an area below the dias
+- Marek portaled us through - opening below
+- kill the body of the decapus
+- find 2 reigns
+ - ring 1 - mundane gold band with psihedron rune, +3 deflection bonus AC, +3 resistance to saves, endure elements, can change appearance to any clothing/armor
+ - ring 2: - ring of invisibility
+- we are scared of ring 1 - want to Identify tomorrow and detect curse 
+  - then plan is Bearach to take both rings and my cloak of elvenkind
+- +1 vicious dagger from skulk
+
+## Session 105 (Jan 29, 2025)
+- sending out prying eyes
+  - see lamias, packs of giants
+  - the city seems to be built on top of old city
+  - some passages may lead into cattacombs
+  - small yeti society in mysterious dome
+- skulks are sub-terranian
+- yeti - CR4 base, neutral by default, immune cold, vuln fire
+  - occupying porous stone, some pile of rubble
+- dimension door to the golden road
+  - see two dragons or drakes - blue
+  - its quiet
+- dimension door into the tunnels (hopefully finding a skulk)
+  - tunnel worked by tools
+  - we hear a creature and chase it
+  - find a skulk - name is Gib Glab 
+  - there are others
+  - Karzoug enslaved them many generations ago
+- Into skulk town - Morgiv
+- Mesmina - delivered them from bondage years ago - great cataclysim freed them
+  from master
+- Mesmina - was a cleric of the city when the eruptions came
+- mesmina defected and taught them how to survive
+- she taught them to wait for us - a cave painting - 4 people. 
+- seeing more giants recently - hill giants are uncommon
+- 50 years ago they fell on hard times. they have been digging through the
+  tunnesl. opened a passage and uncovered abhorent. malevolent power. people
+  disappear close to it. "hidden beast". they do know that it has turned skulks
+  into raving lunatics. These thralls do'nt cast a shadows
+- most notorious creatures who don't cast shadow = vampire
+- they do know stuff about the city if we were to free them of the city
+- agents of karzoug enter to parlay with this creature
+- skulks get turned into monstrous versions of themselves by this creature
+- they are the spared (no infected) - turned skulks are the others
+- lore master vampires - they are a template, suck blood from grapples opponent,
+  ability to change form to bat/wolf, call forth swarms, create spawn, dominate
+  person ability, energy drain with slam (2 neg yeti
+  ), spider climb. CR 9, but
+  tempalte is +CR 2. Weakness to garlic, mirrors, holy symbols - can be overcome
+  w/ a will save - sunlight kills it. wooden stake, helpfless. 
+- 
+We rest with the skulks and then off to the vampires
+- buff up
+- move silently around 20 minutes out
+- stealth roles high enough to get closer
+- then he tells us he will go no farther - can't be farther
+- we should cast minutes per level spells
+
+
+## Session 104 (Jan 22, 2025)
+- rested - at dawn, Garek sees 3 giants walking down the road
+  - gargantuan, runic looking
+  - they seem at ease
+  - cast iron skin - glowing red runes, longswords, armor
+  - walking away from camp
+  - Rune Ginat - CR 17, runes are mechanical
+  - referred to as the top echelon - 
+- saw some flying creatures around the fortress
+- next day we see a several 5 cloud giants (CR 11) and storm giant (CR 13) coming up the road
+  - these may also be under compulsion
+
+Fortress
+- path also the the west
+- icy mass on the north
+- lava rises to east, barely stopped by stone wall up 10 feet
+- 200 feet tall towers - 75 foot tall walls
+- walls - 50 feet thick - obsidian, maybe gilt in past
+- no gate (open)
+- at the fortress - flying creatures - Cucremas - lamia kin (CR 8)
+  - wield large bows in the feet, lowest order of lamia
+
+night number 2
+ - one of the cucremas is flying down the road
+ - 3 coming to the cave
+ - thunderstone 
+
+Escaped to the cryangle after defeating the Kucremas
+- 150-200 ft tall, still enormous proportions
+- back alley is where we arrive
+- bottom floor, arches and pillars
+- hodgepodge of architectural styles. But all buildings are huge
+- covered in a thin grime of ice
+- into the building - 200ft to a side, upper floor 300 feet to a sie, 20ft walls
+- passed without trace to cover tracks
+- upstairs room is mostly an emtpy space. furniture is surprisingly medium
+- 3 levels, stone is maybe marble - deep emerald gren - strange green marble stone unlike we've ever seen
+
+## Session 103 (Jan 13, 2025)
+- there were 4 cloud giants, one frost giant
+- cloud giants may have been under compulsion - Garek sensed motive
+- they are generally peaceful, non-evil
+
+## Session 102 (Dec 9, 2024)
+- the raod is very much visible, corporeal. We just needed to follow Garek's
+  hunger dreams to follow the old river Adah 
+- road is 100 ft wide
+- see a flying creature in the distance - 3 of them
+- teleport magic might not work
+- Wind walk to explore
+  - see a cave ~ 60 feet above the road. Saw some movement in the cave
+  - the road continues for several miles and crests and the descends into a wider valley
+  - see a city - defies belief
+  - glacial valley. north turns west basin
+  - ice capped city - north end is a fortress of smooth black stone, mutliple towers
+  - road continues - massive gold - city dominates the Vale
+  - prodigious heights. The illusion of the road being a valley
+  - volcanic flow on the east burying the city - now a mass of ice an peaks of ruined structure
+  - valley to west - truly gigantic
+  - far end - valley abuts a gigantic peak - road transforms into a stairway
+  - buildings cling to the mountain
+  - a few thousand feet, the building end, but road continues. Topmost spires below the mountain face
+  - face carved into mountain of Karzoug
+  - strange cries and shrieks of airs - sounds Shoggoth
+  - see some cratures flying and circling towers
+  - gatehouse has fallen
+  - these creatures look like 
+- Points of interest in the city
+  - black (obsidian) fortress - entrance to city - in south
+  - road to left tha disappears into buildings
+  - dome shaped building (most are towers) - some movement here (giants, centaurs)
+  - enormous hippodrome (charriot races, enormous), partially envoloped by
+    verdant growth tangled vines (???), maybe a statue
+  - dragon comes on by from the west in the back of the valley (blue)
+    - older than mature adult - clumsy fly
+    - blue dragons - evil, lightning, frightening presense
+    - make a will save or turn potions to sand
+  - centaurs - lions body - lamias (large, CR 6, wisdom drain with melee touch)
+
+  - Fight
+    - Mitch overkilled me -> I died, ended at -66 HP after no inspired rage
+    - Madison cast "song of the fallen". This gave me 2 negative levels but made
+      me alive while hes sang. This brought me to 1 HP. Then healed to 30.
+    - I am fully dead once this ends (song of fallen)
+    - I was staggered and took one last bite attack. Two giants full round attacked me. 
+    - Brought me back to -56. I am dead a second time.
+    - We will need to raise dead me, paying lots of cost for the negative levels.
+
+## Session 101 (Dec 2, 2024)
+  - journal
+  - to Xin Shalast - follow river Avah (we've been following Kazaron River)
+    - second tributary to east (river Avah) - follow to headwaters
+    - then fast under a full moon night
+  - rested and then started north (windwalk)
+    - jacques prepared spells, handed out extract
+    - jacque has greater invis in delayed consumption queue
+  - second tributary - the water is not really water - more ethereal
+  - see a group of 5 flying creatures - giant like
+  - gained a lot of altitude
+  - start to see some conspicuous peaks - volcano - cluster of them - heading towards a cluster
+  - river choked by sediment and boulders and logs
+  - region beyond, grown into a weird tundra frozen wetland
+  - every so often we see some ghost waterfall. Maybe 15k feet high
+  - can follow the river just by following it - need to stay close now
+  - no signs of life
+  - Xin Shalast is close to Leng (Etheral plane) - border between planes is thin here
+  - see the body of an otter, trailing us
+  - her cousin was miriana - she wants to aide us by giving advice
+    - yetis
+    - lamias
+    - giants
+    - it is cold, far from air
+    - region is tangent to that of Leng (nightmare plane). Two effects.
+      Creatures of Leng have travlled to Xin Shalast. And the magic has lead to 
+      a field that occludes divination. Few creatures allowed within it. Shrouds the
+      highest peak (Mark Masif)
+    - two tribes of Skulks (not may be loyal to Karzoug)
+    - one faction maintains sanity - other is made
+    - field only protects the heights
+    - skulks = surface dwelling bipedals, spent time below grade - pale, 
+    - her name is Svevenka
+    - moonlight - cobblestone - gold like shimmer
+    - lead away from riverbank into the north. Immense proportions road
+
+
+
+## Session 100
+  - dwarf feet was burned away
+  - ghost appeared and large worm
+  - wendigo - CR 17 - howl up to a mile away, wendigo psychosis (eat people)
+  - wind walk back to the vekker hut with the bones
+  - produce the bones, blizzard calms
+  - Silas Vekker - sadness and forgiveness
+
+## Sesison 99
+  - Silas will take us to Xin Shilast if we bring his brother's bones
+  - secret door
+    - small desk and chair
+    - ledger 
+      - maps or region - sites of operations
+      - nothing super rich
+      - not a super lucrative mining operation
+      - pages torn out
+    - sacks - 1000 gp gold dust x 7 for 7000gp
+    - chest - 10 uncut gems -> 500gp gems
+  - bunk room
+    - coat hooks - one is empty - it is a lever. stair trap reset
+  - to the north
+    - cliff face - worked
+    - billowing mist off distance
+    - bottom - about 100 ft tall
+    - ledge to the southeast and north
+    - covered in mist
+    - see tops of graves
+    - half a dozen
+    - haphazardly assembeled - dwarven names
+    - outlines of a body - about the size of a dwarf
+    - see a body - body fallen from great height - feet burned off
+    - see a gravestone of silas Vekkers
+    - maybe this extra body is Caravek Vekkers
+    - ghost materializes
+    - frost worm
+
+## Session 98 
+  - Adventure weekend
+  - La Foliage!
+
+## Session 97
+  - took the delayed consumption for swift greater invis
+  - Killed him
+  - Karzoug - Come find me in Mar Masif - and come to Xin Shalast
+  - Mar Masif - where Xin Shalast is - highest peak in Kodars
+
+  Anti-Karzoug Weapon (Bearach)
+  - weapon absorbs 3 bad transmutation spells per day
+  - domineering weapon
+  - bane weapon against w/ shapechanger subtype and transmuters
+  - +2 saving throw transmutation
+
+  Anti-Illusion Weapon (Garek)
+  - Miserly
+  - Bane weapon illusionists, plane of shadows
+  - first 3 times each day striking illusion, auto dispel
+  - +2 saving throw illusion
+
+  Anti-Evocation - Alaznist Weapon (Jacques)
+  - covetous 
+  - bane weapons, evoker and fire subtype
+  - fire resistance 5
+  - +2 saving throw evocation
+  
+Garek - Knowledge Leng
+  - known as the Nightmare realm and terror beyond
+  - denizens of leng -> boogeymen
+  - within the Dreamlands (ethereal plane)
+  - leng spiders -> most common creatures
+    - CR 14, armed w/ masterwork flails
+  
+Xin Shilast reserach
+  - Mar Masif is location
+  - summit told to be carved in a likeness of Karzoug
+  - city in a valley that sits that sits in River Avah (unknown)
+  - Xin Shilast - at the edge of the material plane, so planar influences from Leng
+  - cloaked in reality is not as it seems
+  - expect of Ancient Thaleson
+  - western side of Kodar mountains, not too far from Storval plateau
+  - no accounts for how to get there in this library
+
+- Guiltspur
+  - not a place where people go
+  - occupied by a blue dragon
+  - enslaved giants and ogres
+  - ancient thasselonean ruin
+
+- Mobhad Leigh
+  - steps into hell
+  - pit - spiral stairs ending - legend has it climbe shear walls or fly
+  - rumor -> through darklands into mystery
+  - Shawanti avoid it - died exploring using Divination
+
+Talking with Brodert
+  - Vekkers - Janderhoff - investors
+  - Kazaron River
+
+## Session 96
+  - kill the lich, but still in initiative
+    - magical staff - staff of hungry shadows (10 charges)
+    - headband - vast int + 4 (knowledge nobility, spellcraft)
+    - bracers - bracers of armor +5
+    - ring - ring of protection +2
+    - statuette - good focus item for contingency
+  - surgical equipment - made of silver
+    - 1000 gp
+  - dramatic uptick in notes in the last years of how to cobble corpses together
+  - 
+
+  - Jacques has Greater Invisibility in Delayed Consumption chamber
+
+  - Abjuration domain
+    - magic mouth coming down the hall - just to make fun of them
+    - rubble and missing stone
+    - stone itself is smoother than expected
+    - humanoid bones scattered around - flames around
+    - electrical discharges from rod in the center
+    - not enough dust motes
+    - blue wizard runes casting powerful abjuration to quell enemies
+  - defeated rift creeper
+  - room to north
+    - tile path in granite, steps down to mirror pool
+    - this is a magic battery - it will leech the magic from them
+    - Jacques drinks some - can help craft magic items
+  - room to the south
+    - mustard & vinegar - ooze room
+    - we find a secret door
+    - jars and vials -> contents 3 potions cure serious, potion of haste
+
+
+ - pool - weapon out of any 2 components -> will give opposition school of the 2
+ - this is one off
+ - enchantment (lust) + illusion (pride) magic would make a weapon potent to transmutation (greed) (Bearcach)
+ - anti-wrath -> conjuration, abjuration (Jacques)
+ - anti-necro -> abjuration, enchant
+ - anti-conj - > illusion, envocation (Barely)
+ - anti-illu -> transm, conj (Garek)
+
+- Barley -> anti conjuration -> accepts
+  - sword is etched w/ 2 runes - runes of illusion, evocation
+  - forged a Tyrannical greatsword - bane against conjurers and summoned monsters
+  - crits against extra planar creatures cast dismissal
+  - +2 morale saving against conjuration spells
+  - weilding weapon has influence on wielder -> more attuned to 2 sins (pride, wrath) - penalty to diplomacy
+- Karzoug voice -> "you again, inspired by your optimism, weapons will never reach Xin Shilast"
+- Roll for initiative next!
+
+## Roles for Adventure weekend
+Tommy - 17, 12, 12, 11, 11. 10 (19)
+Mitch - 17, 13, 13, 12, 11, 9 (21)
+Madison - 15, 15, 12, 11, 10, 7 (13)
+Tim - 17, 14, 12, 12, 11, 11 (24)
+
+### Session 95
+  - loot
+    - magical dagger (+1 humanbane dagger)
+    - masterwork dagger 
+    - magical chain shirt (+3 chain shirt)
+
+  - everything covered in dust. Bodied parts have not decayed
+  - weird creatures room 
+    - books, jars of fluid, organs, disected human torso
+    - less dusty
+  - north eat
+    - sarcophogus of gold
+    - baeu relief lid with wine and grapes. Large start saphire. individual gemstones make up the grapes
+    - golem - sculpted to be a woman w/ a serpantine body and head of sihedron rune.
+
+  - next room
+    - portal to negative energy plane
+  
+  - back to golem
+    - defeated - bearach got hit that doesnt' heal normally
+  
+  - grabbed some wine
+  - gems - 100gp
+  - amathest - grapes
+  - Ankelebial Mancreb Ineb
+  - tastes like really good wine
+  - 6000 gp wine
+
+  - secret door - grape vine - real grapes
+  - another secret door - 
+    - two people - 
+    - dessecrated husk of a corpse (incorporeal)
+    - 
+
+  - kill the lich
+    - magical staff
+    - headband
+    - ring
+
+
+### Session 94 (9/18/24)
+- JACQUES BACK!!!!
+- jacques scribed: Protetion from Energy, Remove Curse, Water Breathing
+
+- Evidence
+  - can make weapons that oppose a given school
+  - if we wanted 
+  - enchantment (lust) + illusion (pride) magic would make a weapon potent to conjuration (greed)
+
+- what's left
+  - gluttony (necromancy)
+  - envy (abjuration)
+
+- anti-gluttony
+  - lust, envy
+
+- Into Gluttony
+  - some exquisite doors. Angels
+  - scuffoling on the other side
+  - 10 grinning skulls gripping skulls
+  - flight of stairs up to the door
+  - 
+
+  - EAch skull is a secret door
+  - grapes and leave - inib
+  - meat and cheese - gorob
+  - platter of candies - anstrin
+  - arms crossed, grinning to points - zeriach
+  - 
+
+### Session 93 (9/9/24)
+- Bearach through the illusiory wall
+- Illusions -> 5
+- wand - clairvoyance/claraurance (15 charges)
+- wand - lightning bolt (15 charges)
+- breastplate - +4 mithral breastplate (bearach)
+- amulet - +2 natural armor (bearach)
+- belt - physical perfection +2 (garek)
+- cloak - cloak of res +3 (garek)
+- headband - headband of vast in +2 (sell)
+- ring - ring of prot +2 (save for jacques)
+- flaming ranseur +1 flaming adamantine ranseur (sell)
+
+- FINDING JACQUES
+  - weird hamlet in semi-rural Taldor - Little Orctown
+  - 
+
+### Session 92 (9/5/24)
+
+
+### Session 91 (8/26/24)
+- Into lust! Fight with some flying demons
+- huge cathedral of murals or orgy
+- Allu Demons
+  - offspring of succubi with humans
+  - DR 5, resist acid/cold/fire, immune electricty and poison
+- red silken tent - lights
+- invited in when we tlaked about summoning an elephant to fuck
+- some bodies in cages
+- blood in tent
+- two stone giants
+- silk are pretty magical and robust - more than they seem
+- this woman is an actual succubus
+- inner room -> more dark -> blankets, nests
+
+Into halls of wrath
+- mural of Alaznist - riding on a red dragon
+- square marble from far wall - leads deeper into valut
+  - statue w/ bow in fists - rune - fangs on chest
+- conjuration magic on runes on ground
+- I have 5 images
+- about to cast chain lightning
+
+### Session 90 (8/22/24)
+- read notes from the peacock
+- cap of mountback, headband of int +6 (knowledge nature, arcana, history), robe of archmagi (evil- black), 
+- to lust
+- slime trail that seemed to munch on a dead body
+- components that we have collected thus far react in proximity to runeforge pool
+
+### Session 89
+- simurlacrum fight and peacock start in illusion
+
+
+### Session 88
+ - chernobue fight -> slams do con, bite is poisonous
+    - immune: cold, poison, mind, resist: rest
+ - krune goon room
+   - pipes in corner
+   - central huge pipe
+   - red (northwest), brown, black, yellow all arc into center, metal pipe
+
+  - talked to this guy
+    - pool woke up
+    - abjuration people tried to take over so they all killed them?
+    - they use the rainbow well to get magical energy for their own reserach/artifacts
+    - need a runeforge weapon to pierce the runeforge protective shell
+    - no one goes into each other's domain
+    - we need mcGuffin's ???? If you get all sin magics together
+    - can make a runeforged weapon with all 7 of them
+    - to pierce the protection to Xin Shalazt
+    - gift of Jubilex -> keeps him alive - feeds on oozes
+    - we have a list of the weapon components from each place
+    - 
+
+### Session 87
+- the weird thing that ran away was a quasit -> CR 2
+- sludge 
+
+### Session 86
+- Ardwin's death
+- initial exploration of Sloth domain
+
+### Sesison 85
+- Vault of greed
+  - ivory, claw gripping greed
+  - icy scultupre of a whale blowing water
+  - rune - > hand clasping a gem
+  - south - 
+    - another room - fountain - 9 foot tall wizard statue, with staff, palm -> water
+  - fought lots of stone golems
+  - mundane goldfish in a pond
+  - magic room - transmutation
+    - cast fabricate in this room
+    - 4 of these rooms
+  - another fountain room
+  - door to north
+    - crates and bookshelves
+    - animals in cages - dead dog of metal
+    - see a man - with metal skin - Orticon
+- loot
+  - staff of mithral might
+  - rod - or metal and mineral detection
+  - 500gp diamond dust
+  - cloak resistance +1
+  - pearl of power lvl 2
+  - spellbook - all transmutation spells in CRB
+- demon bound here by runelord chief nerd (Osomandicus)
+  - he's stuck here to guard the room
+  - needs to make Osomandicus to laugh/cry/cheer but never shriek
+  - Nuvuzig, Nalfeshnie demon CR 14
+  - room down -> pool of elemental arcana, recharge magical items
+  - most masters have fallen - Orticon is the last one left
+  - other wings have fallen into disrepair
+  - lust wing is overseen by a succubus
+  - we banished him
+  - statues of men and women in combat rediness, wooden floors
+
+### Session 84
+- tunnel is surprisingly rectangular / tubular - hemispherical perminace
+- tunnel at 6pm (no pillar associated) - short tunnel
+- tunnel at 10'oclock - mostly capsule shaped - empty - 150ft tunnel
+- tunnel at 8 clock
+- tunnel at 7 oclock
+- tunnel at 4 oclock 
+- tunnel at 3 oclock - only 50 ft before it ends - Abjuration
+- tunnel at 2 oclock
+- all tunnels quiet, 150 ft tunnels, no magic, open to different proportions
+
+- teleported back to Magnimar, bought/sold
+- Jacques bought heavy armor and sash of warrior
+- jacques brewed 2 potions of fly for marek, garek
+- party teleport to Janderhoff
+- putting in keys
+  - pillar glows - stays glowing and key disappears
+  - x7 - central pillar glows - ripples with light - 7 colors
+  - colors spiral and mix to a whirlpool and opens into a circular portal a long tunnel
+  - RUNEFORGE!!!
+    - warmer in here - long hall
+    - globally lit - circular structure in the center
+    - hear a crackling sound
+    - domed chamber - 200 feet across
+    - bubbling liquid in center on a raised dais
+    - seven pointed sihedron on the floor - each tip pointing to a statue
+    - each statue different, imperious, in front of an arch
+    - we are in a demiplane
+    - karzoug to the north
+      - karzoug is glaive
+      - door of gemstones - vault of greed- door no latch, but keyhole
+      - secret door - lit by gems in ceiling
+      - tunnel - polished wood, silver and gold runes
+      - appears to extend for at least 100 ft before ending in a wall of green mist with silver modes of light
+      - runes in wood - odes to glory of Karzoug - extolling gifts of transmutation
+      - lived for 100s of years before suspended animation. Ruled Shalast
+      - his abilities to illusion and enchantment (pride, lust) have atrophied
+      - mist = baleful polymorph
+      - zombie disappears through mist
+      - one water mephit escaped - lots of mephit poop
+      - 
+
+### Session 83
+- healed up from dragon
+- got all 7 keys from the head
+- all are magical, made of bronze, look like keys, all look the same
+- Jacques takes transmutation and abjuration keys
+- Climbing the Stairs
+  - stones subtly rumble
+  - earth elemental like creature ready to fight
+- Into the cave
+  - thasalonean ruins
+  - two 12ft tall statues in the cave - hand upraised to ward away intruders
+     - holds a sword
+     - northern is magical -> illusion
+  - bearch standing on pedesal 
+    - dust and debris beyond the statue in mid air
+    - feels an invisible platform - there is an invisible ledge that descends more gently than the rest    
+  - floors of tunnel growing icy
+    - slope below drops straight off - gaping chasm of darkness
+    - coils of mist
+    - hanging from the ceiling - large icicles
+    - path spirals down
+    - cavern glitters and sparkles with lights
+    - 7 20ft tall pillars, encrusted with ice
+    - 8th pillar, twice the size w/ several tunnels exiting
+    - sparkling mound of coins, art, gemstones, jewelery and treasure
+  - Coins
+    - 6,000 money
+    - art, furniture, jewelry -> 10k
+    - masterwork arrow
+    - magical belt -> Giant STrength +4
+    - teak box w/ felt cushion (magical stones - 3) -> thunderstones
+    - bracers - lesser bracers of archery
+    - buckler - +3 darkwood buckler w/ symbol of Kionan (elfs)
+    - chime of opening (5 charges)
+    - longsword - flametongue - +1 flaming burst long sword
+    - masterwork full plate (ravens on shoulder)
+    - 6 vials of frozen holy water
+    - 17 potions - all CLW
+    - 6 potions - cure moderate wounds
+    - 3 potions - cure serious wounds
+    - 2 small chain shirts magical - +1 mithral
+    - wand - CLW - 46 charges
+    - wand - magic missle - 5th level - 8 charges    
+  - all pillars
+    - small keyhole - 4 feet off ground in central pillar
+    
+### SEssion 82
+ - heads 
+   - we see stormunder
+   - snow dappled rimestone mountain
+   - on a hill with 7 heads statues
+   - oddly circular foothill
+   - statues 10 feet tall angled inward - mouths agape
+   - 200 feet above - carving of face - mouth is a cave entrance
+     - stairway descends to a ledge - stairs accessible
+   - statues are all the same
+   - detecting magic, there are seven distinct alien magical auras
+   - stautes 
+     - 1. Transmuation (north) - greed - Karzoug
+     - 2. Conjuration - sloth - Crune
+     - 3. Abjuration - envy - Belamarius
+     - 4. Enchantment - lust - Sortian
+     - 5. Illusion - pride - Zandergoul
+     - 6. Evocation - wrath - Ilaznist
+     - 7. Necromancy - gluttony - Zutha
+
+  - cave - bones - archway into the steps - carving of ancient face
+    - see seven pointed star in forehead
+    - see human equipment encased in thin sheet of ice
+    - landing at top of stair
+    - giant stairs
+    - slight vibration in the ground
+
+    - golden key appears in his mouth after casting appropriate spell at head
+    - get keys for Transmutation, Conjuraion, Abjuration, Enchantment, 
+    - see something huge in the sky - falcon dive
+
+  - Archist an Ancient White Dragon
+     
+### Session 81
+- Jacques brewed 2 potions of CL 12 heroism
+- emerald codax
+- peakock spirit
+- scrolls
+  - heroes feat
+  - orders wrath
+  - symbol of stunning
+ - Anathama archive
+   - when opened it presents a tangled of runes
+   - presents a spell to me - fistful of different spells
+   - need to make a spellcraft to get a particular spell
+   - can use it to perform research -> information about sinister ancient topics
+     - +10 insight bonus
+   - using artifact has potential for negative side effect
+   - spells: blood money
+   - can open it once per day
+
+### Session 80
+- new room to north - holy symbols to Lamashtu
+- birthing pool
+- illusory doors
+  - #1 small collapsed closet
+  - #2 capsule shaped room, scribling and markings, three eyed Jackals, dense scribblings with prayers to Lamashtu
+    - on eastern shores of streaming mirror, at end of day when dusk is nearer where seven faces silent wait encircles guards at runeforge gate
+    - Lake stormunder - geyers and hotsprings
+    - Up near Rimeskull
+    - there are seven heads up by Rimeskull (a mountain) - circle of heads
+    - suspected Thasalonea ruin
+    - go to library to learn
+    - name derives from skull head from peak
+  - #3 - another 3 eyed Jackal - cracks around snout, scribbles lead up to collapse, 
+  - Xin - autocratic emporor who was overthrown by
+  Jacues is 1 day into 2 day Heroism brew
+
+### Session 79
+- Attacking the Glabrezu demon
+- whole place covered in abjuration magic
+- Scribbler loot
+  - breatplate - +1 breatplate
+  - falcion - fanged falchion
+  - diamond dust 500gp
+  - headband - headband of inspired wisdom +2
+  - dagger - +1 cold iron returning dagger
+- Room - prayers and scriptures to Lamashtu
+  - a poem, unrelated to Lamashtu
+  - if magic bright is your desire, 
+    to runeforge must you retire
+    for only there does wizards art 
+    receive its due and proper start
+- next room
+  - unrelated subject -> Scribblers
+  - Eat stone the grace of 7 lords
+    One part of key each ruler holds
+    if offered spells and proper prayer
+    take seven keys and climb the stair
+- hounds rune room
+  - oN fROZEN mOUNTAIN xIN AWAITS
+  His regal voice the yawning gates
+  keys turn twice in shedron
+  occulted runeforge waits within
+  - and now you've come and joined the forge
+    upon rare lore your mind can gorge
+    and when you slough the mortal way
+    in runeforge long your work shall stay
+  - extra secret room
+    - broken limbs - body is a dad
+    desk
+    - vial 
+    - quill w/ peacock's feather - magical quill
+    - revelation quill
+    - in the area - date, names of local places, people names
+  
+
+
+
+### Session 78
+- Lyrie was Broderick Quink's graduate student
+
+Going down the hole!
+- buff up!
+- runewell is now full of rubble
+- healed up Lyrie - she ran back to surface
+- howliing grows louder by the old staircase
+- staircase is covered in spider webs
+  - don't seem to be made by a real spider (Web spell)
+- through a secret door
+  - writing in ink, blood, spiders
+  - stone doors- three eyed jackals' head
+  - fog to the west -> source of light
+  - see a demon to the west in the fog
+- creature to north
+  - "visitors"
+  - righteous might, divine favor, spiritual weapon
+
+  Called mid battle -> charge the demon to attack it
+  Scribbler may have fast healing, but the demon did not
+
+### Session 77
+- back at it after a while off for Alabastair's Lament
+- killed the black monk
+  - ring -> ring of the ram (45 chargexs)
+  - scroll tube (magically preserved but not magic item) - combination lock
+    - thasalonean
+    - 5 disks
+  - belt - belt of giant strength +4
+- alcoves - peakock themed chachkeys
+  - Thorasic order of monks dedicated to the Peacock god/spirit
+  - defunct god no longer known
+- tried to open scroll tube - intelligence checks - failed
+
+
+Guest house
+- huge bed w/ bear skulls
+- pelt of a golden bear, black bear pelt, white bear pelt
+- symbols of giant strength
+
+Foundation stones - can we talk to stones?
+
+Next up:
+- explore Old Light
+- explore / find Kodar
+
+Back to Sandpoint
+ - weird vibe in the Rusty Dragon
+ - there was a tremendous earthquake a few days ago
+ - things have gotten weird - should find Mayor Devron and Sherrif Hemlock
+ - sinkhole opened up near the barracks - Tower Street
+ - hearing strange noises, especially at night
+
+Talking w/ Hemlock and Devrin
+ - ground collapsed in middle of tower street
+ - no one was seriously hurt
+ - sink hole - sent guards - into pit, but they haven't come back
+ - at night they hear terrible things - dogs howling
+ - nothing has come or gone, sounds getting louder
+ - 
+
+ Early morning - to the sinkhole.
+  - dads are pale, rough go
+  - howls were unearthly and louder
+
+### Session 76 
+- bought things in Magnimar
+- Jacques scribed darkvision that evening
+- Jacques scribe reduce person the next morning
+- talked to Pug - wanted 1000gp to come fix clockwork
+- teleport to library of Mokmurian
+- scribed Tongues
+- scribed Arcane Sight
+- Next day
+- upward courtyard
+  - conical spire in circular wall structure
+  - 3 new buildings
+  - there is a pit - that spirals down to us
+  - in the wall - a black tower and some other towers
+- insects explore
+  - mess hall - lots of empty rooms
+  - cone section - used to be a nest - flying creatures (now empty)
+- scribed Greater Invisibility 
+- next day
+  - up the spiral hole - see old bear caves
+  - smouldering embers of fire pit
+  - black tower to southeast
+- spire
+  - most out of place
+  - white streak - stone spire - streaks look like shit
+  - chamber within 50 feet up
+  - do not know the purpose
+  - nothing of interest here
+  - many beatles pun
+- building 1
+  - stables, mammoth
+- building 2
+- building 3
+- black tower
+  - decoracted with gargoyles
+  - sores twice as high as the others 
+  - door feels cold
+  - open door
+  - air within is chilly, 60 feet to a square
+  - stairs lead down
+  - platform in center
+  - trap door covered in ice
+  - 5 ft wide circular shaft going into darkness
+  - 50 ft deep into a circular crpyt, 20 ft high ceiling, icy
+  - hear Thasalonean in the basement
+  - Repeating "The green light"
+  - middle of a dark crypt
+  - mummy leviating, clutching a scroll case 
+
+### Next sess
+  - Magnimar
+  - clear tower here
+  - Sandpoint
+  - Friday is Tim's induction
+  - potentially Monday
+
+### Session 75 2/23
+  - Rested
+  - Room to north
+    - 7 pointed star bau relief
+    - chains affixted to manicles
+    - braisers, 7 tree trunks, branding iron
+    - smells like blood, fresh earth
+    - seems like a branding station for processing monsters
+    - we disfigured the brand
+
+  - Circular room
+    - perfectly circular
+    - lit by 
+    - walls carved w/ runes and sigils
+    - overstuff leather chairs
+    - oak tables 
+    - 30 foot wide shaft
+    - this is preserved, consipuously
+    - rubble from the outside
+    - standing before us - a little robot?
+    - idle animation
+    - has a key in one hand
+    - Thorasic monastary - 24,491 volumes, scrolls, pamphlets, manuscripts
+      - works of enlightenment, natural philosphy and history
+      - many books about runelords
+    - Karzoug (greed)
+      - around the time of earthfall
+      - Hellfire flumes
+      - frequently at war w/ neighbors - Ilaznist (wrath)
+      - Ilaznist nation Baklakan
+      - Karzoug built immense statues to gaurd (storval stairs, Hook mountain)
+      - Ilaznist built hellfire flumes - fire based tower defnese
+      - people thought this would bring about the end of the world
+      - Karzoug was an azlanti human wizard (transmuatation magic)
+      - Karzoug regime called Shalazt
+      - 10,000+ years ago
+      - Karzoug armies of giants, subdued by him
+      - giants rules by Rune Giants, pawns of Karzoug
+      - Karzoug aligned w/ Blue Dragons, Nightmares from Leng (Scarlet walkers), Lamia Heridens
+      - Illusion (pride) and Enchantment (lust)
+      - Karzoug lost way w/ pride an lust magic that he might have a weakness associated w/ these 2 sins
+      - newest books
+        - as war intensified, runelords devised methods to escape and enter a state of suspended animation to ride out cataclysm to claim empires later
+        - 
+
+      - Runewells - product of Ilaznist - jealous of Karzoug
+        - she was emulating Karzoug's success of a runewell of greed
+        - considered to be minor runewells (eg. of wrath)
+        - trying to find a map of this -> most are underwater in the gulf
+        - Hollow Mountain may contain some
+        - they work -> when a creature w/ a wrathful soul 
+        - have an energy of them replenished when wrathful soul dies
+        - can spawn sinspawn
+        - other secrets we don't know
+        - Karzoug's runewell -> much more closely gaurded secret but does not live on the material plane. Idea that part of his plan to avoid death is part of it.
+      - Evocation (wrath), Conjuration (sloth), Divination, Abjuration (envy), Necromancy (gluttony)
+      - Lamia Hereden's
+        - highest stratest of Lamia (we fought matriarch's before)
+        - rarest in family. Similar to normal lamia (lion body)
+        - usually a hunting cat w/ tatoos and beutiful upper body
+        - wisdom drain w/ attacks
+        - monstrous humanoids
+      - Leng is a demiplane of Nightmares in dreamland
+      - Irespan
+        - one of cyclopian monuments
+        - 10,000 years before magnimar
+        - built as part of Ilaznist's domain
+        - stretch from capital city of Zin Barocon (Hollow Mountain)
+        - Bakrokan was Ilaznist's domain, Zin Bakrokan the capitol
+        - this is western coast
+        - collapsed when Earthfall
+      - Skulls Crossing
+        - one of last works of Karzoug's giant's slave works
+        - the quarry came upstream from this dam
+        - gigantic quarry which is now storval plateau
+        - thought the quarry was an eyesore so he built the dam and flooded it
+        - decorated w/ his favorite symbol -> human skull
+      - Jin Shalazt
+        - capitol of Karzoug's district Shalazt
+        - rumored to be hidden in Kodar mountains
+        - golden streets and gemstone buildings. Mountain that could see
+        - headwaters of sacred river Ada - to earthly paradise (believed destroyed)
+        - spires of Jin Shalazt on mountain of mar Masif - highest peak in Kodars
+        - Mar Masif -> bridge to Nightmare dimension of Leng. Infuses w/ elrich and other worldly enerhgies
+      - Kodar Mountains
+      - Nybor and Wartle are near the souther border of Shalazt
+      - Cyrusian - 
+      - Edasiril - archipeligo to coast
+      - south of Nybor - Eurithenia
+      - Haruka - Crune - Sloth
+      - Eurythnia - Sortian - Lust
+      - Gastash - Zutha - Gluttony
+      - Edasseril - Belamarius - Envy
+      - Cyrusian - Zandergoul - pride
+      - Bakrakhan -  Ilaznil
+      - Shalast - Karzoug
+    - Mokmurian
+      - wanted to find Zin Shalast and runeforge
+      - runelords had fallen into sinful troughs of magic
+      - atrophied to do other magic
+      - they created a runeforge - like a demiplane - stuffed them into a lab and threw away the key
+      - idea that these people could collaborate on all schools of magic
+      - various findings made it out of runeforge
+      - no one really knows what is going on in there
+    - Xaliasa
+      - mysterious figure mentioned in records
+      - leader in Ilaznist's army
+      - became a double agent for Karzoug
+
+
+### Session 74
+ - Mokmurian dies
+ - animates - and says in human like voice
+  - "so these are the heros of the age. worms to be crushed when he rises
+  - Karzoug is spoken with fear and awe
+  - hasten his return. 
+  - WE are fools. is this all we could manage in 10,000 years of our absence
+  - at thistletop -saw a hologram talking in voice - same 
+
+  Loot
+   - +1 defending spell storing club (large)
+   - scroll - limited wish
+   - wand of bears endurance 13 charges
+   - bag of holding type II
+     - spellbooks
+       - every spell in CRB to 6th level
+   - goggles - fog cutting lenses
+   - fancy robe - robe of runes
+   - star shaped key - 
+   - 500gp of diamond dust - 
+
+   symbols of Mrynath and Dakioth now
+   - demon lords serving lamashtu
+   - bloody altar
+
+LeVEL UP TO 12
 
 ### Session 73
  - Lecture hall

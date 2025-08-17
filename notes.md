@@ -89,7 +89,20 @@ Standard mutagen go-list (140 minutes)
 # Stoneskin Communal uses
   - 8
 
-## Session 110 (July 31, 2025)
+## Session 122 (August 14, 2025 - Adventure Weekend)
+  - Buffs active
+  - Stoneskin: 150
+  - Grand Destiny: 4
+
+  - open doors = free action
+  - rooms 50 feet high
+  -
+  - these are lamia heredians. Lion +humans, cleric levels
+  - northern door - swollen creature / bear claws - iron staples
+  - greater invis - round of thunder warden - rund 4
+
+
+## Session 121 (July 31, 2025)
   - tower is windowless
   - small window in the tower - flaw in the stonework
   - I send arcane eye in to investigate
